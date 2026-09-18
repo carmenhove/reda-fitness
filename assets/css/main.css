@@ -2231,7 +2231,7 @@ input, select, textarea {
 			}
 
 			ul.labeled-icons li h3 {
-				color: #b2b2b2;
+				color: #f5be27;
 				left: 0;
 				position: absolute;
 				text-align: center;
@@ -3233,4 +3233,13 @@ input, select, textarea {
 
 #one header.major {
     text-align: center;
+}
+
+#footer .button {
+	color: #ffffff !important;
+}
+
+#footer .button:hover,
+#footer .button:active {
+	color: #49bf9d !important;
 }
