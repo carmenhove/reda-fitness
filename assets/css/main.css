@@ -3236,7 +3236,8 @@ input, select, textarea {
 }
 
 #footer .button {
-	color: #ffffff !important;
+	color: #3eb08f !important;
+	border-color: #3eb08f !important;
 }
 
 #footer .button:hover,
